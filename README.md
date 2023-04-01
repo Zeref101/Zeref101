@@ -18,7 +18,7 @@
 <a href="https://twitter.com/shreyas_m0228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas_m0228" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shreyas-mohanty-8a899524a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreyas-mohanty-8a899524a" height="30" width="40" /></a>
 <a href="https://instagram.com/_.shreyas0228._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.shreyas0228._" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shreyas mohanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyas mohanty" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/user3493c" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shreyas mohanty" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
