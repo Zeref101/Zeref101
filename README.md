@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I have sense of humour**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zeref101&hide=contribs,prs)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shreyas_m0228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreyas_m0228" height="30" width="40" /></a>
