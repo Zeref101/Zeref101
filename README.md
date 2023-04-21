@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shreyas Mohanty</h1>
 <h3 align="center">A passionate frontend developer and competative programmer from India</h3>
 
-- 🔭 I’m currently working on **-**
+- 🔭 I’m currently working on **DSA in C++**
 
 - 🌱 I’m currently learning **Frontend development**
 
