@@ -1,8 +1,12 @@
-<h2 align="left">My name is Shreyas and I am a Full Stack Web Developer</h2>
+<h1 align="center">My name is Shreyas and I am a Full Stack Web Developer</h1>
 
 ###
 
-<div align="left">
+<h2 align="center">Stats💫</h2>
+
+###
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=Zeref101&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Zeref101&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Zeref101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph"  />
@@ -10,11 +14,11 @@
 
 ###
 
-<img align="right" height="157" src="https://media.tenor.com/0cqfZUdfQvwAAAAd/steam.gif"  />
+<h2 align="center">Technologies | Frameworks💫</h2>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -48,7 +52,11 @@
 
 ###
 
-<div align="left">
+<h2 align="center">Socials💫</h2>
+
+###
+
+<div align="center">
   <a href="https://linkedin.com/in/shreyas-mohanty-8a899524a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
@@ -59,7 +67,14 @@
 
 ###
 
+<div align="center">
+  <img height="157" src="https://media.tenor.com/0cqfZUdfQvwAAAAd/steam.gif"  />
+</div>
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Zeref101/Zeref101/output/snake.svg" alt="Snake animation" />
 
+###
