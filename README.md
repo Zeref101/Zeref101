@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Zeref101/Zeref101/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/Zeref101/Zeref101/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
