@@ -1,4 +1,8 @@
-<h1 align="center">My name is Shreyas and I am a Full Stack Web Developer</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=30&duration=1500&pause=1000&color=FE428E&width=435&lines=Hi+there!+Myself+Shreyas%F0%9F%91%8B;Full+Stack+Web+Dev+%7C+Linux">
+  </a>
+</h1>
 
 ###
 
