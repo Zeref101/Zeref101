@@ -18,39 +18,21 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" height="30"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" height="30" alt="debian logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-plain.svg" width="48" alt="TypeScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48" alt="React"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="48" alt="JavaScript"/>
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="48" alt="tailwindcss">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="48" alt="tailwindcss">
 </div>
 
 ###
