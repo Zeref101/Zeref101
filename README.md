@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="48" alt="JavaScript"/>
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="48" alt="tailwindcss">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg' width="48" alt="tailwindcss">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="48" alt="tailwindcss">
 </div>
 
