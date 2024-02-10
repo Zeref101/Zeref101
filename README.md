@@ -54,7 +54,7 @@
 ###
 
 <div align="center">
-  <img height="157" src="./tenor.gif"  />
+  <img height="157" src="./tenor.gif"  alt="gif"/>
 </div>
 
 ###
