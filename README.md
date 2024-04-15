@@ -18,21 +18,22 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-plain.svg" width="48" alt="html"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/typescript/typescript-plain.svg" width="48" alt="TypeScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original.svg" width="48" alt="React"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/nextjs/nextjs-original.svg" width="48" alt="Next.js"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" width="48" alt="JavaScript"/>
-  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/python/python-plain.svg" width="48" alt="Python"/>
+  <img src="https://github.com/devicons/devicon/raw/master/icons/cplusplus/cplusplus-plain.svg" width="48" alt="c++"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/c/c-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/debian/debian-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-plain.svg" width="48" alt="JavaScript"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-plain.svg" width="48" alt="JavaScript"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/fastapi/fastapi-original.svg" width="48" alt="FastAPI"/>
   <img src="https://github.com/devicons/devicon/raw/master/icons/git/git-plain.svg" width="48" alt="JavaScript"/>
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="48" alt="tailwindcss">
-  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg' width="48" alt="tailwindcss">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg' width="48" alt="github">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg' width="48" alt="appwrite">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="48" alt="tailwindcss">
 </div>
 
