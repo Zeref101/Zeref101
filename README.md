@@ -50,6 +50,7 @@
 </div>
 
 ###
+[![An image of @zeref101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zeref101)](https://holopin.io/@zeref101)
 
 <div align="center">
   <img height="157" src="./tenor.gif"  alt="gif"/>
