@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! I'm Shreyas Mohanty</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">Full-stack Developer</h3>
 
 ###
 
