@@ -1,5 +1,5 @@
 
-<h3 align="center">I get curious about development, algorithms, softwares 🧠</h3>
+<h3 align="center">I get curious about development, algorithms, open-source 🧠</h3>
 
 ###
 
