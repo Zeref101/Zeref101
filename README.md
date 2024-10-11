@@ -36,6 +36,7 @@
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/appwrite/appwrite-original.svg' width="48" alt="appwrite">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg' width="48" alt="tailwindcss">
   <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg' width="48" alt="go">
+  <img src='https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg' width="48" alt="Java">
 </div>
 
 ###
